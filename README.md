@@ -1,4 +1,4 @@
-# 🤗 Md-Aashiqq
+<!-- # 🤗 Md-Aashiqq
 
 ![Aashiqq laughing](https://media.giphy.com/media/3o7TKQA5O6KvU6cydi/giphy.gif)
 
@@ -34,4 +34,53 @@ Total contributions: 61
 
 ## Let's Connect
 
-Feel free to reach out to me via [Twitter](https://twitter.com/MdAashiqq) or [LinkedIn](https://www.linkedin.com/in/md-aashiq-b1a946192/).
+Feel free to reach out to me via [Twitter](https://twitter.com/MdAashiqq) or [LinkedIn](https://www.linkedin.com/in/md-aashiq-b1a946192/). -->
+
+# 🤩 Md-Aashiqq 🤩
+
+![AashiqGIF](https://media.giphy.com/media/QvU1mn0HfGSD5B5w5r/giphy.gif)
+
+Hey there! My name is Md-Aashiqq and I'm a software engineer, web developer, and full-stack enthusiast. I specialize in creating highly interactive and impactful applications.
+
+## 🤹‍♀️ Skills and Technologies
+
+- JavaScript (ES6+)
+- React.js
+- Node.js
+- HTML/CSS
+- MongoDB
+- Git
+- Express.js
+
+## 📊 GitHub Stats
+
+![GitHubStats](https://github-readme-stats.vercel.app/api?username=Md-Aashiqq&show_icons=true&hide_border=true&hide_rank=true)
+
+### 🤸‍♂️ Top Languages
+
+![TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Aashiqq&hide_border=true)
+
+### 🔥 Pull Request Count
+`38`
+
+### 🌟 Contributions
+`61`
+
+### 📈 GitHub Streak
+
+![GitHubStreak](https://github-readme-stats.vercel.app/api/streak/?username=Md-Aashiqq&hide_border=true)
+
+### 🏆 Trophies
+
+![GitHubTrophies](https://github-readme-stats.vercel.app/api/trophies/?username=Md-Aashiqq&hide_border=true)
+
+## 🤔 Fun Facts
+- I'm a huge fan of Marvel Cinematic Universe
+- I'm a huge fan of Superheroes
+- I love playing video games
+- I'm a self-taught programmer
+
+## 📱 Contact
+
+- Github: [@Md-Aashiqq](https://github.com/Md-Aashiqq)
+- Twitter: [@MdAashiqq](https://twitter.com/MdAashi
