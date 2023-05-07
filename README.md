@@ -1,1 +1,46 @@
-CgojIDp3YXZlOiBIaSB0aGVyZSwgSSdtIE1kLUFhc2hpcXEgOnNtaWxleToKCkknbSBhIGZ1bGwgc3RhY2sgZGV2ZWxvcGVyIHdpdGggYW4gZXh0ZW5zaXZlIGJhY2tncm91bmQgaW4gd2ViIGRldmVsb3BtZW50IGFuZCBhIHBhc3Npb24gZm9yIGNyZWF0aW5nIHVuaXF1ZSB3ZWIgYXBwbGljYXRpb25zLgoKIVthbHQgdGV4dF0oaHR0cHM6Ly9tZWRpYS5naXBoeS5jb20vbWVkaWEvM283YnVpclhoUzlKaVZIWGxDL2dpcGh5LmdpZikKCiMjIFNraWxscyAmIFRlY2hub2xvZ2llcwoKLSBKYXZhU2NyaXB0Ci0gUmVhY3QKLSBOb2RlLmpzCi0gSFRNTC9DU1MKLSBNb25nb0RCCi0gRXhwcmVzcwotIEdyYXBoUUwKCiMjIEdpdEh1YiBTdGF0cyA6Y2hhcnRfd2l0aF91cHdhcmRzX3RyZW5kOgoKIVthbHQgdGV4dF0oaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpP3VzZXJuYW1lPW1kLWFhc2hpcXEmc2hvd19pY29ucz10cnVlJnRoZW1lPXRva3lvbmlnaHQpCgojIyBQdWxsIFJlcXVlc3RzIDpoZWF2eV9jaGVja19tYXJrOgoKLSAzOCBQdWxsIFJlcXVlc3RzCgojIyBDb250cmlidXRpb25zIDpzYXRlbGxpdGU6CgotIDYxIHRvdGFsIGNvbnRyaWJ1dGlvbnMKCiMjIEdpdEh1YiBTdHJlYWsgJiBUcm9waGllcyA6dHJvcGh5OgoKLSBDdXJyZW50bHkgb24gYSAzOCBkYXkgc3RyZWFrCi0gNSB0cm9waGllcwoKIyMgRnVuIEZhY3RzIDpzdW5nbGFzc2VzOgoKLSBJJ20gYSBiaWcgZmFuIG9mIGNsYXNzaWMgcm9jawotIEknbSBhbiBhdmlkIGdhbWVyCi0gSSBsb3ZlIGFuaW1hbHMsIGVzcGVjaWFsbHkgY2F0cwoKIyMgQ29udGFjdCBJbmZvIDplbWFpbDoKCi0gRW1haWw6IFttZC1hYXNoaXFxQGV4YW1wbGUuY29tXShtYWlsdG86bWQtYWFzaGlxcUBleGFtcGxlLmNvbSkKLSBUd2l0dGVyOiBbQE1kQWFzaGlxcV0oaHR0cHM6Ly90d2l0dGVyLmNvbS9NZEFhc2hpcXEpCi0gTGlua2VkSW46IFtNZCBBYXNoaXFxXShodHRwczovL3d3dy5saW5rZWRpbi5jb20vaW4vbWQtYWFzaGlxcS8p
+
+
+# :wave: Hi there, I'm Md-Aashiqq :smiley:
+
+I'm a full stack developer with an extensive background in web development and a passion for creating unique web applications.
+
+![alt text](https://media.giphy.com/media/3o7buirXhS9JiVHXlC/giphy.gif)
+
+## Skills & Technologies
+
+- JavaScript
+- React
+- Node.js
+- HTML/CSS
+- MongoDB
+- Express
+- GraphQL
+
+## GitHub Stats :chart_with_upwards_trend:
+
+![alt text](https://github-readme-stats.vercel.app/api?username=md-aashiqq&show_icons=true&theme=tokyonight)
+
+## Pull Requests :heavy_check_mark:
+
+- 38 Pull Requests
+
+## Contributions :satellite:
+
+- 61 total contributions
+
+## GitHub Streak & Trophies :trophy:
+
+- Currently on a 38 day streak
+- 5 trophies
+
+## Fun Facts :sunglasses:
+
+- I'm a big fan of classic rock
+- I'm an avid gamer
+- I love animals, especially cats
+
+## Contact Info :email:
+
+- Email: [md-aashiqq@example.com](mailto:md-aashiqq@example.com)
+- Twitter: [@MdAashiqq](https://twitter.com/MdAashiqq)
+- LinkedIn: [Md Aashiqq](https://www.linkedin.com/in/md-aashiqq/)
